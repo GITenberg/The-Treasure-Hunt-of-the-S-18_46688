@@ -1,10 +1,16 @@
 _repo: The-Treasure-Hunt-of-the-S-18_46688
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46688-h/images/cover.jpg
 creator:
   author:
     agent_name: Dean, Graham M.
     gutenberg_agent_id: '42706'
     url: http://www.gutenberg.org/2009/agents/42706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46688#The-Treasure-Hunt-of-the-S-18
 gutenberg_issued: '2014-08-26'
 gutenberg_type: Text
 identifiers:
